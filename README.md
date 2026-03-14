@@ -97,7 +97,7 @@ Users can write reviews for restaurants to share their dining experiences.
 
 ## 🏠 Home Page
 
-![Home Page](C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot (398))
+![Home Page](Screenshots\Screenshot (398))
 
 ---
 
