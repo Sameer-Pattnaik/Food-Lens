@@ -109,7 +109,7 @@ Users can write reviews for restaurants to share their dining experiences.
 
 ## 📍 Restaurant Details
 
-![Restaurant Details](images/restaurant-details.png)
+![Restaurant Details](https://github.com/Sameer-Pattnaik/Food-Lens/blob/8ba643902a99e6dc59b91bcecac52fdde561a476/Screenshot%20(400).png)
 
 ---
 
