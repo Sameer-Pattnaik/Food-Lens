@@ -97,7 +97,7 @@ Users can write reviews for restaurants to share their dining experiences.
 
 ## 🏠 Home Page
 
-https://github.com/Sameer-Pattnaik/Food-Lens/blob/532acc12a151beccc35eb01fb7531edc3852a912/Screenshot%20(398).png
+![Home Page](https://github.com/Sameer-Pattnaik/Food-Lens/blob/532acc12a151beccc35eb01fb7531edc3852a912/Screenshot%20(398).png)
 
 ---
 
