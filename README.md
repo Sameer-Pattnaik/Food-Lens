@@ -103,7 +103,7 @@ Users can write reviews for restaurants to share their dining experiences.
 
 ## 🍽 Restaurant Listings
 
-![Restaurant Listings](images/restaurants.png)
+![Restaurant Listings](https://github.com/Sameer-Pattnaik/Food-Lens/blob/6e5a181cb73e8ed696c66ee405b899a771594726/Screenshot%20(399).png)
 
 ---
 
