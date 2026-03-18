@@ -219,21 +219,9 @@ This project demonstrates:
 
 **Sameer Kumar Pattnaik**
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* GitHub: [https://github.com/Sameer-Pattnaik](https://github.com/Sameer-Pattnaik)
+* LinkedIn: [https://linkedin.com/in/sameer-kumar-pattnaik](https://linkedin.com/in/sameer-kumar-pattnaik)
 
 ---
 
-⭐ If you like the project, consider giving it a **star**!
 
----
-
-If you want, I can also help you create a **🔥 very impressive GitHub README format used by top developers**, including:
-
-* **Live demo badge**
-* **Tech stack badges**
-* **System architecture diagram**
-* **API section**
-* **Professional screenshot layout**
-
-This makes your **GitHub projects much stronger for recruiters like Barclays, Red Hat, or product companies.**
